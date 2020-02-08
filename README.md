@@ -1,10 +1,5 @@
-# We Are Merge
+# 	Futuristica
 
-An startup for technological solutions. :metal::alien:
-
-![Texto alternativo](img/example.jpg)
-
-This is an adapted landing page based on [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/)
 
 ## Copyright and License
 
